@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaustubhowmick
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning in Python
+- 🌱 I’m currently working with AI
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: kaustubhowmick@gmail.com
 
